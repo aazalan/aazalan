@@ -1,5 +1,5 @@
 # Hi I’m Alan!
-#### I’m Frontend and Backend Web developer. Also I'm also interested in solving problems and writing algorithms. Some of them you can find there: [my LeetCode profile](https://leetcode.com/aaz_alan/).
+#### I’m Frontend and Backend Web developer. Also I'm interested in solving problems and writing algorithms. Some of them you can find there: [my LeetCode profile](https://leetcode.com/aaz_alan/).
 
 ## Projects on GitHub
 For my Backend projects I used Slim framework for routing and rendering views. Also in this projects was implemented Container DI for better API:  
