@@ -11,3 +11,8 @@ My first project based on Laravel. During the work on this project I discover La
 
 ## Projects on other platfroms
 Last time I’ve been mostly studying the React. My small projects I posted on the CodePen where you can consider their functionality and discover my code. Cause the React provides two ways of building architecture of Frontend, some of projects is designed on functions using hooks and other are written using older React way of developing using classes: [CodePen collection with React projects](https://codepen.io/collection/NqyjZj?cursor=eyJjb2xsZWN0aW9uX2lkIjoiTnF5alpqIiwiY29sbGVjdGlvbl90b2tlbiI6bnVsbCwibGltaXQiOjQsIm1heF9pdGVtcyI6MTEsIm9mZnNldCI6MCwicGFnZSI6MSwic29ydF9ieSI6InBvc2l0aW9uIiwic29ydF9vcmRlciI6IkFzYyJ9).
+
+## Other resources
+- [CV on Russian language](https://disk.yandex.ru/d/uHH3Jq3nbanhDQ)
+- [LinkedIn](https://linkedin.com/in/alan-abdul-91b157261)
+- [Hexlet profile](https://ru.hexlet.io/u/aaz_alan)
